@@ -1,4 +1,4 @@
--- exibe o texto Olá Mundo na tela
+-- exibe o texto "Olá Mundo!" na tela
 
 print("Olá Mundo!")
 
